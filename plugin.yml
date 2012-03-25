@@ -1,0 +1,8 @@
+name: BloodMoon
+main: com.verybigcorp.bloodmoon.BloodMoon
+version: 1.3
+commands:
+   bmoon: 
+      description: BloodMoon commands
+      permission: 
+      usage:
